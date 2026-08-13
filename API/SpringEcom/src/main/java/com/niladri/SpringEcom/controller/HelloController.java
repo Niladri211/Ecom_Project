@@ -9,7 +9,7 @@ public class HelloController
 	@GetMapping("/hello")
 	public String greet()
 	{
-		return "Welcome Niladri's Life";
+		return "Welcome Niladri's Life modified in new branch";
 	}
 
 }
